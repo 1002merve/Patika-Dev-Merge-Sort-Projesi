@@ -1,0 +1,12 @@
+# Patika-Dev-Merge-Sort-Projesi
+[16,21,11,8,12,22] -> Merge Sort
+1. adım diziyi ikiye böl:
+[16,21,11]:[8,12,22]
+2. adım çıkan bu dizileri de ikiye böl:
+[16,21]:[11]:[8,12]:[22]
+3.adım çıkan bu dizeleri de ikiye böl:
+[16],[21],[11],[8],[12],[22]
+4.adım çıkan bu dizileri birleştir:
+[8,11,12,16,21,22]
+Dizinin Big-0 Gösterimi
+0(n.logn)
